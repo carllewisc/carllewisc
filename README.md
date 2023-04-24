@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi everyone 👋
+
+My name is Carl Lewis and I'm 22 years old. I'm currently React Native Developer at CableData
+
+Feel free to contact me: carllewisdeveloper@gmail.com
+
 <!--
 **carllewisc/carllewisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
