@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-My name is Carl Lewis and I'm 25 years old. I'm currently React Native Developer at CableData
+My name is Carl Lewis and I'm 26 years old. I'm currently React Native Developer at CableData
 
 Feel free to contact me: carllewisdeveloper@gmail.com
 
